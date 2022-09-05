@@ -8,7 +8,7 @@ django version 4.0.2 `pip install django`
 
 **Xampp server**
 
-#### Things you should do after installing 
+### Things you should do after installing 
 
 run Apache and MySql server.
 Create a database name - **project**.
