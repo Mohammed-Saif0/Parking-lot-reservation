@@ -1,5 +1,5 @@
 # Parking-lot-reservation
-Online parking lot reservation, it helps users to reserve/book the parking space for their vehicle online
+## Online parking lot reservation, it helps users to reserve/book the parking space for their vehicle online
 
 Things you should install,,
 
