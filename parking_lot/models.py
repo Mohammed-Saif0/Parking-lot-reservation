@@ -31,7 +31,7 @@ class Book_parking(models.Model):
     to_time = models.TimeField()
     parking_space_id = models.ForeignKey(Parkingspaces,on_delete=CASCADE)
     parking_lot_id = models.ForeignKey(Parkinglots,on_delete=CASCADE)
-    is_cancled = models.IntegerField(max_length=1,default=0)
+    is_cancled = models.IntegerField(default=0)
 
     def __str__(self):
         return str(self.id)
