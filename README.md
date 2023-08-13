@@ -14,7 +14,7 @@ open the terminal run command `python manage.py migrate`
 then finally run the command `python manage.py runserver`.
 
 
-#SCREENSHOT
+# SCREENSHOT
 ![Screenshot from 2022-09-20 11-02-06](https://user-images.githubusercontent.com/99530963/191182962-10881cba-49fa-4d36-8887-fc58e8716c34.png)
 
 ![Screenshot from 2022-09-20 11-27-53](https://user-images.githubusercontent.com/99530963/191183053-6a834297-03dc-4159-87df-6df029b5b54a.png)
